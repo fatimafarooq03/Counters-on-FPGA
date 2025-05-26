@@ -3,7 +3,7 @@
 This repository contains two FPGA designs implemented using VHDL: a Decimal Counter and a Hexadecimal Counter. Both counters are designed to drive a 7-segment display and provide visual output using LEDs. These designs are suitable for learning about digital logic design, clock division, and basic FPGA programming.
 
 ## Projects
-### 1. Decimal Counter
+### 1. Decimal Counter (Video Demonstration)[https://drive.google.com/file/d/1cE2tddH_XlOiGX3hJGWZlMrQf-qMT2oN/view?usp=sharing] 
 #### Description:
 The Decimal Counter counts from 0 to 15 (in decimal) and displays the count on a 7-segment display. The counter also controls LEDs to visually represent the current count.
 
